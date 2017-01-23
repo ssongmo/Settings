@@ -13,6 +13,7 @@ android {
         versionName "1.0" //외부적으로 알려지는 앱 버전
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner" //테스트환경
     }
+    //
     lintOptions {
         abortOnError false
     }
